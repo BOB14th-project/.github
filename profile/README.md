@@ -17,7 +17,7 @@
 | 이름 | GitHub |
 | :---: | :---: |
 | 🧑🏻‍💻 정진호 | [@ZINH00](https://github.com/ZINH00) |
-| 🧑🏻‍💻 서정민 | [@seojungmin](https://github.com/noir1458) |
+| 🧑🏻‍💻 서정민 | [@noir1458](https://github.com/noir1458) |
 | 🧑🏻‍💻 하준수 | [@JunsuHa](https://github.com/junsu0306) |
 | 👩🏻‍💻 신찬희 | [@chan-068](https://github.com/chan-068) |
 | 🧑🏻‍💻 한상우 | [@Sangwoo Hahn](https://github.com/sw-player) |
